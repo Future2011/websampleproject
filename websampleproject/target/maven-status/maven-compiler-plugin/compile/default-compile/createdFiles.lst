@@ -1,0 +1,5 @@
+com\lin\controller\UserController.class
+com\lin\dao\UserDao.class
+com\lin\service\UserServiceImpl.class
+com\lin\service\UserService.class
+com\lin\domain\User.class
